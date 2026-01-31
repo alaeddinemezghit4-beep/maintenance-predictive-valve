@@ -1,0 +1,21 @@
+# Fichiers Python / environnement
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Fichiers temporaires / caches
+*.log
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
