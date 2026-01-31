@@ -4,7 +4,7 @@ Ce projet met en place un modèle de Machine Learning pour prédire, pour chaque
 
 ## Contenu du projet
 
-- `projet_maintenance_valve.ipynb` : notebook Jupyter principal contenant tout le pipeline :
+- `Untitled-1.ipynb` : notebook Jupyter principal contenant tout le pipeline :
   - chargement des données (`profile.txt` et fichiers capteurs PS*, FS*, TS*, VS1, CE, CP, SE),
   - extraction de features par cycle (moyenne, écart-type, min, max, percentiles),
   - séparation apprentissage / test (2000 premiers cycles pour l’apprentissage),
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Lancer le notebook
 
-Ouvrir `projet_maintenance_valve.ipynb` dans Jupyter / VS Code et exécuter les cellules dans l’ordre.
+Ouvrir `Untitled-1.ipynb` dans Jupyter / VS Code et exécuter les cellules dans l’ordre.
 
 ## Lancer l’application web Streamlit
 
