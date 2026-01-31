@@ -36,6 +36,14 @@ Ouvrir `Untitled-1.ipynb` dans Jupyter / VS Code et exécuter les cellules dans 
 
 ## Lancer l’application web Streamlit
 
+### Application en ligne (Streamlit Cloud)
+
+L’application est déployée ici :
+
+- https://alaeddinemezghit4-beep-maintenance-predictive-valve-app-7b9zbg.streamlit.app/
+
+### Exécution locale (optionnelle)
+
 Depuis le dossier du projet :
 
 ```bash
