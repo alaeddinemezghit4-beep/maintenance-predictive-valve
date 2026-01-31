@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## 3. Lancer le notebook
 
-Ouvrir `Untitled-1.ipynb` dans Jupyter / VS Code et exécuter les cellules dans l’ordre. Le notebook contient :
+Ouvrir `fichier_notebook_de_projet` dans Jupyter / VS Code et exécuter les cellules dans l’ordre. Le notebook contient :
 
 - l’exploration de la cible (condition de la valve),
 - la construction de la matrice de caractéristiques `X`,
