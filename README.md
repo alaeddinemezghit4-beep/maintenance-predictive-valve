@@ -6,7 +6,7 @@ Les données sont fournies sous forme de fichiers texte (`.txt`) où **chaque li
 
 ## 1. Contenu du dépôt
 
-- `Untitled-1.ipynb` : notebook Jupyter principal contenant tout le pipeline :
+- `fichier_notebook_de_projet` : notebook Jupyter principal contenant tout le pipeline :
   - chargement de `profile.txt` et des fichiers capteurs (PS1–PS6, FS1–FS2, TS1–TS4, VS1, CE, CP, SE, EPS1),
   - extraction de variables explicatives (moyenne, écart-type, min, max, percentiles 25/50/75) par cycle,
   - séparation apprentissage / test (2000 premiers cycles pour l’apprentissage, reste pour le test),
